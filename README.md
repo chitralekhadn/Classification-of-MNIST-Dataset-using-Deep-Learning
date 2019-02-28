@@ -1,1 +1,1 @@
-# MNIST-Dataset-with-MLP-Architectures-in-Keras-1-
+# MNIST-Dataset-with-MLP-Architectures-in-Keras
